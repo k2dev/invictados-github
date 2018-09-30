@@ -1,2 +1,2 @@
-# invictados-githun
+# invictados-github
 seguimiento curos web
