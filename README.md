@@ -1,2 +1,2 @@
-# invictados-github
+# invitados-github
 seguimiento cursos web
