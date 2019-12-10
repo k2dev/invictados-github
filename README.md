@@ -1,2 +1,2 @@
 # invictados-github
-seguimiento curos web
+seguimiento cursos web
